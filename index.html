@@ -7,9 +7,11 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <div className="container">
-      <div className="column is-half">
-        <a href="/" className="add">Tambah Data Siswa</a>
+    <div class="container">
+      <div class="content">
+        <div class="btnAdd">
+          <a href="/" class="add">Tambah Data Siswa</a>
+        </div>
         <table>
           <thead>
             <tr>
@@ -22,13 +24,33 @@
           </thead>
           <tbody>
             <tr>
-              <td>{index + 1}</td>
-              <td>{user.name}</td>
-              <td>{user.email}</td>
-              <td>{user.gender}</td>
+              <td>1</td>
+              <td>iqbal</td>
+              <td>iqbal@gmail.com</td>
+              <td>laki-laki</td>
               <td>
-                <a href="/" className="button is-small is-info"> Edit </a>
-                <button type="button" className="button is-small is-danger">Delete</button>
+                <a href="/" class="edit"> Edit </a>
+                <button type="button" class="delete">Delete</button>
+              </td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>ahmad</td>
+              <td>ahmad@gmail.com</td>
+              <td>laki-laki</td>
+              <td>
+                <a href="/" class="edit"> Edit </a>
+                <button type="button" class="delete">Delete</button>
+              </td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>nahrul</td>
+              <td>nahrul@gmail.com</td>
+              <td>laki-laki</td>
+              <td>
+                <a href="/" class="edit"> Edit </a>
+                <button type="button" class="delete">Delete</button>
               </td>
             </tr>
           </tbody>
