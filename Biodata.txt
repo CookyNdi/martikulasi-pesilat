@@ -1,0 +1,11 @@
+Nama Lengkap : Yandi Hirniyansyah,
+Umur : 19,
+Pendidikan Terakhir : SMK Jurusan Multimedia,
+Pengetahuan Developer :
+- Dasar-dasar HTML, CSS, JAVASCRIPT
+- React Js, Express Js, mysql, postgresql
+- Bootstrap, Tailwind, Bulma
+Pengalaman Software Development :
+- Pernah mengikuti pelatihan HTML Dan CSS di Progate pada saat masih SMK,
+- Pernah mengikuti pelatihan Frontend Developer di Kawah Edukasi pada januari 2023,
+Motivasi Mengikuti Bootcamp : Ingin menambah pengalaman dan pelajaran baru agar bisa menjadi developer yang lebih baik.
